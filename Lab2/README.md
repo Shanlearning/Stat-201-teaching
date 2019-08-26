@@ -31,9 +31,9 @@ Choose sheet State_and_education_for_graph1, filter for interested areas,
 ### In StatCrunch:
 Graph->Pie Chart->With Summary
 Choose education_category for Categories in, Counts in Employment, where area_name = "National" , order by value ascending
-![graph1](https://github.com/Shanlearning/Stat201/blob/master/Lab2/pics/graph1.PNG|width=100)
+![graph1](https://github.com/Shanlearning/Stat201/blob/master/Lab2/pics/graph1.PNG)
 
-![graph1p](https://github.com/Shanlearning/Stat201/blob/master/Lab2/pics/graph1p.PNG|width=100)
+![graph1p](https://github.com/Shanlearning/Stat201/blob/master/Lab2/pics/graph1p.PNG)
 ## 2.Make a graph for a quantitative variable:
 Choose sheet industry_and_edu_for_graph2, filter for interested occupation sectors,
 
