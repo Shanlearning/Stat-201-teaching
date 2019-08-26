@@ -29,9 +29,13 @@ Data from : https://www.bls.gov/oes/tables.htm , I collected, cleaned and integr
 
 ## 1.Make a graph for a categorical variable:
 
-## 4.
+## 4.Choose one quantitative and one categorical variable
+Choose sheet Occupation_data_for_graph4, filter for interested occupation sectors
 
 ### In StatCrunch:
 Graph->Chart->Columns
 Choose wage in Select columns, Order by Value Descending , with vertical lines
-![graph4](Lab2/pics/graph4.png)
+![graph4](https://github.com/Shanlearning/Stat201/blob/master/Lab2/pics/graph4.PNG)
+
+![graph4p](https://github.com/Shanlearning/Stat201/blob/master/Lab2/pics/graph4p.PNG)
+
