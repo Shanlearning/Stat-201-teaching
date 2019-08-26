@@ -69,3 +69,10 @@ https://www.python.org/
 tools that helps you to get data from online
 
 https://docs.scrapy.org/en/latest/
+
+
+
+
+
+
+
