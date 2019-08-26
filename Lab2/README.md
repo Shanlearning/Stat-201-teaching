@@ -22,4 +22,9 @@ Example: gender, veteran status , Admission accpeted or not.
 
 # Lab 2 Exercise:
 
-## Make a graph for a categorical variable
+# 1. get data 
+Data from : https://www.bls.gov/oes/tables.htm , we will use the data that I cleaned.
+
+
+## 1.Make a graph for a categorical variable:
+
