@@ -35,10 +35,21 @@ Choose education_category for Categories in, Counts in Employment, where area_na
 
 ![graph1p](https://github.com/Shanlearning/Stat201/blob/master/Lab2/pics/graph1p.PNG)
 ## 2.Make a graph for a quantitative variable:
-Choose sheet industry_and_edu_for_graph2, filter for interested occupation sectors,
+Choose sheet industry_and_edu_for_graph23, filter for interested occupation sectors,
+### In StatCrunch:
+Graph->Histogram
+Choose annual_mean_wage for select columns, where education_category = "Bachelor's degree", markers mean
+![graph2](https://github.com/Shanlearning/Stat201/blob/master/Lab2/pics/graph2.PNG)
 
+![graph2p](https://github.com/Shanlearning/Stat201/blob/master/Lab2/pics/graph2p.PNG)
 ## 3.Make a graph for two categorical variables:
-Choose sheet State_and_education_for_graph1, filter for at least two interested areas,
+Choose sheet State_and_education_for_graph23, filter for at least two interested areas,
+### In StatCrunch:
+Graph->Boxplot
+Choose annual_mean_wage for select columns, group by education_category，markers mean
+![graph3](https://github.com/Shanlearning/Stat201/blob/master/Lab2/pics/graph3.PNG)
+
+![graph3p](https://github.com/Shanlearning/Stat201/blob/master/Lab2/pics/graph3p.PNG)
 
 ## 4.Choose one quantitative and one categorical variable
 Choose sheet Occupation_data_for_graph4, filter for interested occupation sectors
