@@ -40,3 +40,9 @@ It is very important for you to attend this lab which is scheduled on 9/16 and d
 A 25% penalty will be imposed on all late papers and these will only be accepted up to a week after the due date. Individual work is required on the EWA. Students may proof-read each other’s papers, but original writing is required from each student. 
 
 Students who are not registered on Pearson MyLabandMastering will receive a zero on the EWA.
+
+# Tools you will use:
+
+## PearsonLab
+
+## Excel
