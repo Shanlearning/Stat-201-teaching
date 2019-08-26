@@ -33,5 +33,5 @@ Data from : https://www.bls.gov/oes/tables.htm , I collected, cleaned and integr
 
 ### In StatCrunch:
 Graph->Chart->Columns
-
 Choose wage in Select columns, Order by Value Descending , with vertical lines
+![txt01](pics/graph4.png)
