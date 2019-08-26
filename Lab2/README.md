@@ -29,3 +29,9 @@ Data from : https://www.bls.gov/oes/tables.htm , I collected, cleaned and integr
 
 ## 1.Make a graph for a categorical variable:
 
+## 4.
+
+### In StatCrunch:
+Graph->Chart->Columns
+
+Choose wage in Select columns, Order by Value Descending , with vertical lines
