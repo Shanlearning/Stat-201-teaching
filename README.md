@@ -25,7 +25,14 @@ Lab groups will randomized each week.
 
 Be on time for lab. If you are late to lab and the data collection process has already begun then you will receive 20% off your SAWA grade for that lab. The SAWA questions are found in the Lab book (Statistics Play-By-Play: Laboratory Experiments for Elementary Statistics), 20% will be taken from each SAWA grade when the student does not have a copy of the lab book.
 
-### EWA (Extended Writing Assignment):
-Paper to be written on a particular lab.
-You may do it for Lab 4 or Lab 8.  Recommended for Lab 4.  If you do poorly on the one for Lab 4 you may do Lab 8 as well and your higher grade will be kept.
-More when we get closer to these labs.   
+### Extended Writing Assignment – EWA (5% or 30 points) 
+
+For Lab Session 4, an extended writing assignment (EWA) will be assigned. This is a detailed technical writing report that discusses the lab experiment, statistical methods, and results. 
+
+Greater detail on this paper will be provided later. 
+
+It is very important for you to attend this lab which is scheduled on 9/16 and due on 9/30. If you miss this lab for a valid reason but do not notify me of your situation in a timely manner (prior to or the day of the lab), then you will receive a zero on the EWA.
+
+A 25% penalty will be imposed on all late papers and these will only be accepted up to a week after the due date. Individual work is required on the EWA. Students may proof-read each other’s papers, but original writing is required from each student. 
+
+Students who are not registered on Pearson MyLabandMastering will receive a zero on the EWA.
