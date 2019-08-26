@@ -41,26 +41,30 @@ A 25% penalty will be imposed on all late papers and these will only be accepted
 
 Students who are not registered on Pearson MyLabandMastering will receive a zero on the EWA.
 
-# Tools you will use:
+## Tools you will use:
 
-## PearsonLab
+### PearsonLab
 
 https://www.pearsonmylabandmastering.com/northamerica/
 
-## Excel
+### Excel
 
-# Tools that can be useful 
+Excel functions: https://support.office.com/en-us/article/excel-functions-alphabetical-b3944572-255d-4efb-bb96-c6d90033e188
+
+Excel VBA:
+
+## Tools that can be useful 
 tools help you to analysis data
-# R:
+### R:
 
 https://www.r-project.org/
 
-# python:
+### python:
 
 https://www.python.org/
 
 
-# Scrapy:
+### Scrapy:
 
 tools that helps you to get data from online
 
