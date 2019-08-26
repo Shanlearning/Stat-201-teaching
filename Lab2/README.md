@@ -23,7 +23,7 @@ Example: gender, veteran status , Admission accpeted or not.
 # Lab 2 Exercise:
 
 # 1. get data 
-Data from : https://www.bls.gov/oes/tables.htm , I collected, cleaned and integrated these data into one excel sheet:
+Data from : https://www.bls.gov/oes/tables.htm , I collected, cleaned and integrated these data into one excel sheet: https://github.com/Shanlearning/Stat201/blob/master/Lab2/education_2018.xlsx
 
 
 ## 1.Make a graph for a categorical variable:
