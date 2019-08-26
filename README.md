@@ -1,5 +1,9 @@
 # Stat-201-teaching
 
+As you enter room:
+* Find your name on the sign in sheet , find the Table you were randomly assigned.  
+* Sit at any of the seats and the table you were assigned
+
 ## Introduction to Labs
 
 ### Pre-Labs: (5% or 30 points) 
