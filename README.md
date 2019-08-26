@@ -45,4 +45,23 @@ Students who are not registered on Pearson MyLabandMastering will receive a zero
 
 ## PearsonLab
 
+https://www.pearsonmylabandmastering.com/northamerica/
+
 ## Excel
+
+# Tools that can be useful 
+tools help you to analysis data
+# R:
+
+https://www.r-project.org/
+
+# python:
+
+https://www.python.org/
+
+
+# Scrapy:
+
+tools that helps you to get data from online
+
+https://docs.scrapy.org/en/latest/
