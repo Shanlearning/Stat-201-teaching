@@ -61,7 +61,7 @@ Choose wage in Select columns, Order by Value Descending , with vertical lines
 
 ![graph4p](https://github.com/Shanlearning/Stat201/blob/master/Lab2/pics/graph4p.PNG)
 
-### Method 2
+### Method 2 (Totally optional!!)
 Choose sheet State_and_education_for_graph23, filter for at least two interested areas,
 ### In StatCrunch:
 Graph->Boxplot
