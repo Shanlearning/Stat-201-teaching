@@ -49,6 +49,10 @@ https://www.pearsonmylabandmastering.com/northamerica/
 
 ### Excel
 
+University of South Carolina provide free excel access:
+
+https://www.sc.edu/about/offices_and_divisions/division_of_information_technology/end_user_services/available_technology_resources/information_for_students/index.php
+
 Excel functions: https://support.office.com/en-us/article/excel-functions-alphabetical-b3944572-255d-4efb-bb96-c6d90033e188
 
 Excel VBA:
