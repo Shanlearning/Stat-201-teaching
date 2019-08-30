@@ -20,7 +20,7 @@ numbers that are not counts or measurements and anything that is not a number.
 Example: gender, veteran status , Admission accpeted or not.
 
 
-# Lab 2 Exercise:
+# Lab 2 Examples:
 
 # 1. get data 
 Data from : https://www.bls.gov/oes/tables.htm , I collected, cleaned and integrated these data into one excel sheet: https://github.com/Shanlearning/Stat201/blob/master/Lab2/education_2018.xlsx
@@ -61,7 +61,7 @@ Choose wage in Select columns, Order by Value Descending , with vertical lines
 
 ![graph4p](https://github.com/Shanlearning/Stat201/blob/master/Lab2/pics/graph4p.PNG)
 
-### Method 2
+### Method 2 (Totally optional!!)
 Choose sheet State_and_education_for_graph23, filter for at least two interested areas,
 ### In StatCrunch:
 Graph->Boxplot
