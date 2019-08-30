@@ -20,7 +20,7 @@ numbers that are not counts or measurements and anything that is not a number.
 Example: gender, veteran status , Admission accpeted or not.
 
 
-# Lab 2 Exercise:
+# Lab 2 Examples:
 
 # 1. get data 
 Data from : https://www.bls.gov/oes/tables.htm , I collected, cleaned and integrated these data into one excel sheet: https://github.com/Shanlearning/Stat201/blob/master/Lab2/education_2018.xlsx
