@@ -8,4 +8,17 @@ Windows: Download R for Windows ->  install R for the first time
 
 # Online Version of R 
 
+One that many people use:
+
 https://rstudio.cloud/projects
+
+One that is quick to start:
+
+https://rextester.com/l/r_online_compiler
+
+# Rstudio
+
+https://www.rstudio.com/products/rstudio/download/#download
+
+
+
