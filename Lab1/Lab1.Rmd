@@ -2,36 +2,28 @@
 title: "Lab1"
 author: "ShanZhong"
 date: "9/11/2019"
-output: pdf_document
+output:
+  html_document:
+    df_print: paged
 ---
 
-```{r code}
+```{r packages}
+
+
+```
+
+
+```{r load data}
 dat <- read.csv("https://raw.githubusercontent.com/Shanlearning/Stat201/master/Lab1/Wednesday_class.csv")
 dat
+```
 
+```{r plot data}
 boxplot(dat[,c("Random_sample_mean","Judgement_sample_mean")])
-abline(h=5.5686)
+abline(h=5.5686,col="red")
 
 boxplot(dat[,c("Random_sample_std_deviation","Judgment_sample_std_deviation")])
 abline(h=6.0008,col="red")
 ```
 
-## R Markdown
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
