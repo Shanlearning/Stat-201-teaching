@@ -2,13 +2,13 @@
 
 # Discussion Questions key:
 
-1.look for mean or median as you want to measure weight overall/
+1. look for mean or median as you want to measure weight overall/
 
-2."spread", "variability" directs to standard deviation
+2. "spread", "variability" directs to standard deviation
 
-3.same as question 1
+3. same as question 1
 
-4.same as question 2
+4. same as question 2
 
 5. Open question,
    
