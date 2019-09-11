@@ -8,8 +8,6 @@ Windows: Download R for Windows ->  install R for the first time
 
 # Online Version of R 
 
-One that many people use:
-
 https://rstudio.cloud/projects
 
 # Rstudio
