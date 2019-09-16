@@ -1,4 +1,4 @@
-dat <- read.csv("https://raw.githubusercontent.com/Shanlearning/Stat201/master/Lab1/Friday_class.csv")
+dat <- read.csv("https://raw.githubusercontent.com/Shanlearning/Stat201/master/Lab1/Monday_class.csv")
 dat
 
 
