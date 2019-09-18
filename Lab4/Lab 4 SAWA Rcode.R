@@ -38,7 +38,7 @@ Object = c( "Distance to Maps Box",
 
 #############################################################################
 # we combine the data into one dataframe
-dat = data.frame(cbind(Guessed_Distance,True_Distance,Object))
+dat = data.frame(cbind(Guessed_Distance,True_Distance))
 # we create a new column
 dat$Guessed_Distance_square = dat$Guessed_Distance^2
 
