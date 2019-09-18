@@ -22,9 +22,23 @@ True_Distance = c(39,
       94,
       186
 )
+
+Object = c( "Distance to Maps Box",
+            "Base of Closest Magnolia Tree",
+            "Lamp Post across sidewalk",
+            "Lamp Post on Right at the end of sidewalk leading to horseshoe",
+            "Base of Brick Wall",
+            "Red fire hydrant to right",
+            "Shortest distance to letters on Sidewalk",
+            "Nearest point to manhole cover to left",
+            "Closest corner to concrete square to righ",
+            "Facing statue first tree past oval walkway"
+)
+
+
 #############################################################################
 # we combine the data into one dataframe
-dat = data.frame(cbind(Guessed_Distance,True_Distance))
+dat = data.frame(cbind(Guessed_Distance,True_Distance,Object))
 # we create a new column
 dat$Guessed_Distance_square = dat$Guessed_Distance^2
 
