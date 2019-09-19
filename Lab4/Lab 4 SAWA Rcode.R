@@ -41,6 +41,7 @@ Object = c( "Distance to Maps Box",
 dat = data.frame(cbind(Guessed_Distance,True_Distance))
 # we create a new column
 dat$Guessed_Distance_square = dat$Guessed_Distance^2
+rownames(dat) = Object
 
 # get the linear model output
 linear_model = lm(formula = True_Distance ~ Guessed_Distance,data=dat)
@@ -61,7 +62,9 @@ fitted_quadratic = predict(quadratic_model,newdata = pred_dat)
 plot(True_Distance ~ Guessed_Distance, data = dat,pch=3,lwd=2)
 with(pred_dat, lines(x = Guessed_Distance, y = fitted_linear,col="red",lwd= 2))
 with(pred_dat, lines(x = Guessed_Distance, y = fitted_quadratic,col="blue",lwd= 2, lty=2))
+text(x=Guessed_Distance,y=True_Distance,labels = rownames(dat),col ="green")
 legend("topleft", legend=c("Linear", "Quadratic"),
        col=c("red", "blue"), lty=1:2, cex=0.8)
 
-summary(linear_model);summary(quadratic_model)
+summary(linear_model)
+summary(quadratic_model)
