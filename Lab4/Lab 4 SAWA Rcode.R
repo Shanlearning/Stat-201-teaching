@@ -74,19 +74,33 @@ legend("topleft", legend=c("Linear", "Quadratic"),
 sd_linear = sqrt(sum(linear_model$residuals^2)/8)
 sd_quadriac = sqrt(sum(quadratic_model$residuals^2)/7)
 
-plot(True_Distance ~ Guessed_Distance, data = dat,pch=3,lwd=2,col="white")
+plot(True_Distance ~ Guessed_Distance, data = dat,pch=3,lwd=1,col="Grey")
 with(pred_dat, lines(x = Guessed_Distance, y = fitted_linear,col="red",lwd= 2))
 points(x=Guessed_Distance_11th_Object,y=100,pch=2,lwd=2,col="black")
 legend("topleft",legend="11th Object",col="black",pch=2)
 with(pred_dat, lines(x = Guessed_Distance, y = fitted_linear-2*sd_linear,col="pink",lwd= 2,lty=3))
 with(pred_dat, lines(x = Guessed_Distance, y = fitted_linear+2*sd_linear,col="pink",lwd= 2,lty=3))
+Object_11th = data.frame(Guessed_Distance=Guessed_Distance_11th_Object)
+pred_11th = predict(linear_model,Object_11th)
+points(x=Guessed_Distance_11th_Object,y=pred_11th,col="purple",lwd=8)
+arrows(Guessed_Distance_11th_Object, pred_11th-2*sd_linear, 
+       Guessed_Distance_11th_Object, pred_11th+2*sd_linear,
+       length=0.05, angle=90, code=3,col="blue")
 
-plot(True_Distance ~ Guessed_Distance, data = dat,pch=3,lwd=2,col="white")
+
+plot(True_Distance ~ Guessed_Distance, data = dat,pch=3,lwd=2,col="Grey")
 points(x=Guessed_Distance_11th_Object,y=100,pch=2,lwd=2,col="black")
 legend("topleft",legend="11th Object",col="black",pch=2)
 with(pred_dat, lines(x = Guessed_Distance, y = fitted_quadratic,col="blue",lwd= 2, lty=2))
 with(pred_dat, lines(x = Guessed_Distance, y = fitted_quadratic-2*sd_linear,col="green",lwd= 2,lty=3))
 with(pred_dat, lines(x = Guessed_Distance, y = fitted_quadratic+2*sd_linear,col="green",lwd= 2,lty=3))
+Object_11th = data.frame(Guessed_Distance=Guessed_Distance_11th_Object,
+                         Guessed_Distance_square=Guessed_Distance_11th_Object^2)
+pred_11th = predict(quadratic_model,Object_11th)
+points(x=Guessed_Distance_11th_Object,y=pred_11th,col="purple",lwd=8)
+arrows(Guessed_Distance_11th_Object, pred_11th-2*sd_quadriac, 
+       Guessed_Distance_11th_Object, pred_11th+2*sd_quadriac,
+       length=0.05, angle=90, code=3,col="blue")
 
 summary(linear_model)
 summary(quadratic_model)
