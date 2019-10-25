@@ -44,8 +44,16 @@ Exponential distribution are usually used to model waiting time between independ
 ```{r exp_simulate}
 lambda = 1
 
-# here we used the rexp function to generate 500 exponential distribution
-sample = rexp( n = 500, rate = lambda)
+# define sample to be a vector
+sample = c()
+
+# a for loop, repeat 500 times
+for(i in 1:500){
+  # here we used the rexp function to generate 1 exponential distribution
+  b = rexp( n = 1, rate = lambda)
+  # save our sample mean ( append value of b to our sample)
+  sample = c(sample , b)
+}
 
 # generate a histgram for the sample ( with 30 seperate bars)
 hist(sample, breaks =  30 , col = "red")
