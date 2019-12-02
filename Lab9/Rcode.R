@@ -1,7 +1,15 @@
-# normal distribution
-x <- seq ( -3, 3 , by = 0.01)
-plot(x,dnorm(x),type = "l" , col = "red")
+# question 3
+n.sim = 10000
+x = rep(NA, n.sim)
+y = rep(NA, n.sim)
+x[1] = y [1] = 1
 
-# t distribution
-degree_of_freedom = 2
-lines(x,dt(x,7),col="blue")
+B = 10
+
+for ( i in 2:n.sim){
+  
+  x[i] = ?qexp
+  
+  Y[i] = rnorm(1,mean = p*X[i], sd = sqrt(1-p^2))
+  
+}
