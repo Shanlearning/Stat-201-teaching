@@ -1,6 +1,6 @@
 ﻿# Lab 3:
 
-# Discussion Questions key:
+# Hint:
 
 1. look for mean or median ...etc as you want to measure weight overall/
 
@@ -10,14 +10,11 @@
 
 4. same as question 2
 
-5. Open question,
+5. Open question
    
 6. Open question
 
-7. 1. different site.
-   2. tape vs ruler
-   3. morning and later that day
-   4. sample size not large enough(10)
+7. 
 
 8. Open question
 
