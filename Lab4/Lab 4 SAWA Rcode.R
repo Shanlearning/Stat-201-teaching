@@ -1,42 +1,4 @@
-# you need to enter your own value
-Guessed_Distance = c(42,
-      34,
-      17,
-      88,
-      120,
-      130,
-      4,
-      23,
-      89,
-      100
-)
-
-Guessed_Distance_11th_Object = 120
-
-#################################################################################
-True_Distance = c(41,
-                  27,
-                  16,
-                  83.2,
-                  134.25,
-                  255,
-                  7.66,
-                  43,
-                  100,
-                  186
-)
-
-Object = c( "Distance to Maps Box",
-            "Base of Closest Magnolia Tree",
-            "Lamp Post across sidewalk",
-            "Lamp Post on Right at the end of sidewalk leading to horseshoe",
-            "Base of Brick Wall",
-            "Red fire hydrant to right",
-            "Shortest distance to letters on Sidewalk",
-            "Nearest point to manhole cover to left",
-            "Closest corner to concrete square to righ",
-            "Facing statue first tree past oval walkway"
-)
+data = read.csv(file.choose())
 
 
 #############################################################################
@@ -51,6 +13,10 @@ linear_model = lm(formula = True_Distance ~ Guessed_Distance,data=dat)
 # get the linear model output
 quadratic_model = lm(formula = True_Distance ~ Guessed_Distance + Guessed_Distance_square,data=dat)
 
+
+
+#############################################################################
+# details, do not need to understand
 # Part 2
 #############################################################################
 # generate data for plot
