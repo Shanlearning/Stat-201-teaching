@@ -1,18 +1,21 @@
-data = read.csv(file.choose())
+data = read.csv(file.choose(),sep = '\t')
+
+data
 
 
 #############################################################################
-# we combine the data into one dataframe
-dat = data.frame(cbind(Guessed_Distance,True_Distance))
-# we create a new column
-dat$Guessed_Distance_square = dat$Guessed_Distance^2
-rownames(dat) = Object
+data$Guessed_Distance_square = data$Guessed_Distance^2
 
 # get the linear model output
-linear_model = lm(formula = True_Distance ~ Guessed_Distance,data=dat)
-# get the linear model output
-quadratic_model = lm(formula = True_Distance ~ Guessed_Distance + Guessed_Distance_square,data=dat)
+linear_model = lm(formula = True_Distance ~ Guessed_Distance,data=data)
 
+linear_model
+summary(linear_model)
+
+
+# get the linear model output
+quadratic_model = lm(formula = True_Distance ~ Guessed_Distance + Guessed_Distance_square,data=data)
+quadratic_model
 
 
 #############################################################################
