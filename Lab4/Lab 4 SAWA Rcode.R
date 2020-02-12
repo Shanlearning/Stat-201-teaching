@@ -1,4 +1,6 @@
-data = read.csv('https://raw.githubusercontent.com/Shanlearning/Stat201/master/Lab4/data.csv',sep = ',')
+data = read.csv('https://raw.githubusercontent.com/Shanlearning/Stat201/master/Lab4/data_Wednesday_1.csv',sep = ',')
+
+data
 
 data$Guessed_Distance = c(42,34,17,88,120,130,4,23,89,100)
 
