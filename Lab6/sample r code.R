@@ -1,18 +1,14 @@
-?rbinom
+n = 19
+x = 16
+# suppose we do not know p
+p = seq(0,1, by =0.01)
 
-sample_size = 24
+likilihood = dbinom(x = 16, size =n, prob = p)
 
-# success from 1 to 24
-success = 1:24
+plot(p,likilihood)
 
-prob = dbinom(success,sample_size,prob = 0.8)
+# suppose we know true p = 0.8
+x_prob = dbinom(x = 0:19, size = n, prob = 0.8)
 
-data.frame(success, round(prob,3) )
-
-plot(success,prob)
-lines(success,prob,col="blue")
-
-simulation_trail = 100
-simulation = rbinom(simulation_trail,sample_size,prob = 0.8)
-hist(simulation)
+plot(0:19,x_prob)
  
