@@ -1,23 +1,5 @@
 ﻿# Lab 3:
 
-# Hint:
+Pre-lab video: https://www.youtube.com/watch?v=O2l4iBshvkU
 
-1. look for mean or median ...etc as you want to measure weight overall/
-
-2. "spread", "variability" directs to standard deviation,range...etc
-
-3. same as question 1
-
-4. same as question 2
-
-5. Open question
-   
-6. Open question
-
-7. 
-
-8. Open question
-
-Excel functions:
-
-https://support.office.com/en-us/article/excel-functions-alphabetical-b3944572-255d-4efb-bb96-c6d90033e188
+Lab Instruction video (outdated, for reference only): https://www.youtube.com/watch?v=sXi33PAlq5o

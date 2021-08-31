@@ -1,82 +1,8 @@
 # Stat-201-teaching
 
-As you enter room:
-* Find your name on the sign in sheet , find the Table you were randomly assigned.  
-* Sit at any of the seats and the table you were assigned
+Pre-labs (5% or 30 points) You will be given a pre-lab assignment on My Lab and Mastering due before each lab.  The pre-lab will post at least 24 hours before your lab time. Each pre-lab is worth 5 points.  At the end of the semester the highest 6 pre-lab grades are used.  
 
-## Introduction to Labs
-
-### Pre-Labs: (5% or 30 points) 
-
-You will be given a pre-lab assignment on My Lab and Mastering due before each lab (except for Lab 5). 
-
-The pre-lab will post 24 hours before your lab time. Each pre-lab is worth 3 points.
-
-Students who are not registered on Pearson MyLabandMastering will receive a zero on pre-labs.
-
-### SAWA (Short Answer Writing Assignment):(15% or 90 points) 
-
-For all lab sessions, you will be required to complete a series of short answer questions to be collected. Each SAWA will be completed and turned in at the lab meeting. 
-
-The lowest SAWA grade will be dropped. If you miss a lab, then that is the lab that will be dropped. 
-
-Students may work together in answering SAWA questions, but each student must turn in an assignment to receive credit. Lab
-groups will randomized each week. 
-
-Students who are not registered on Pearson MyLabandMastering will receive a zero on SAWA assignments. 
-
-Lab groups will randomized each week. 
-
-Be on time for lab. If you are late to lab and the data collection process has already begun then you will receive 20% off your SAWA grade for that lab. The SAWA questions are found in the Lab book (Statistics Play-By-Play: Laboratory Experiments for Elementary Statistics), 20% will be taken from each SAWA grade when the student does not have a copy of the lab book.
-
-### Extended Writing Assignment – EWA (5% or 30 points) 
-
-For Lab Session 4, an extended writing assignment (EWA) will be assigned. This is a detailed technical writing report that discusses the lab experiment, statistical methods, and results. 
-
-Greater detail on this paper will be provided later. 
-
-A 25% penalty will be imposed on all late papers and these will only be accepted up to a week after the due date. Individual work is required on the EWA. Students may proof-read each other’s papers, but original writing is required from each student. 
-
-Students who are not registered on Pearson MyLabandMastering will receive a zero on the EWA.
-
-## Tools you will use:
-
-### PearsonLab
-
-https://www.pearsonmylabandmastering.com/northamerica/
-
-### Excel
-
-University of South Carolina provide free excel access:
-
-https://www.sc.edu/about/offices_and_divisions/division_of_information_technology/end_user_services/available_technology_resources/information_for_students/index.php
-
-Excel functions: https://support.office.com/en-us/article/excel-functions-alphabetical-b3944572-255d-4efb-bb96-c6d90033e188
-
-Excel VBA:
-
-## Tools that can be useful 
-tools help you to analysis data
-### R:
-
-https://www.r-project.org/
-
-### python:
-
-https://www.python.org/
-
-
-### Scrapy:
-
-tools that helps you to get data from online
-
-https://docs.scrapy.org/en/latest/
-
-### Tensorflow:
-
-Real machine learning tools(python based):
-
-https://www.tensorflow.org/
+Short Answer Writing Assignments – SAWA (15% or 90 points) For all lab sessions, you will be required to complete a series of short answer questions to be collected. Each SAWA will be completed and turned in at the lab meeting. In the event that the lab runs long, the lab instructor may extend the assignment.  If you must miss a lab for a valid reason a make up may be scheduled.  Note that make up labs require a student to have accommodations made to attend another lab section.  These accommodations are not always possible.  If no accommodations can be made for a student to attend another lab section then the student will receive a zero for the lab and that can be the lab grade dropped at the end of the semester, remember you can only drop one low lab grade.. Students may work together in answering SAWA questions, but each student must turn in an assignment to receive credit. Lab groups will randomized each week. Be on time for lab.  If you are late to lab and the data collection process has already begun then you will receive 20% off your SAWA grade for that lab.  The SAWA questions are found in the Lab book (Statistics Play-By-Play: Laboratory Experiments for Elementary Statistics), 25% will be taken from each SAWA grade when the student does not have a copy of the lab book.
 
 
 
