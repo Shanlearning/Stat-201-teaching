@@ -1,5 +1,5 @@
-﻿# Lab 3:
+﻿# Lab 2:
 
-Pre-lab video: https://www.youtube.com/watch?v=O2l4iBshvkU
+Pre-lab video: https://www.youtube.com/watch?v=5vSZFFWQmGQ
 
-Lab Instruction video (outdated, for reference only): https://www.youtube.com/watch?v=sXi33PAlq5o
+Lab Instruction video: https://www.youtube.com/watch?v=Knt1edeHBW4
