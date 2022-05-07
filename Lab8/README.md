@@ -1,5 +1,5 @@
-﻿# Lab 9:
+﻿# Lab 8:
 
-Pre-lab video: https://www.youtube.com/watch?v=HogZwxvDQi0
+Pre-lab video: https://www.youtube.com/watch?v=MPd5xfO1tOw
 
-Lab Instruction video : https://www.youtube.com/watch?v=VUl7E-L7I80
+Lab Instruction video : https://www.youtube.com/watch?v=AubVayGCYUg
